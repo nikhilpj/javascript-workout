@@ -115,3 +115,4 @@ obj1.add(10)
 console.log("inorder traversal ",obj1.inorder());
 console.log("postorder",obj1.postorder());
 console.log("preorder ",obj1.preorder());
+console.log("this is tree traversal");
