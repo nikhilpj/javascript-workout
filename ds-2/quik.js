@@ -21,3 +21,4 @@ function quick(arr)
     return [...quick(left),pivot,...quick(right)]
 }
 console.log(quick(arr));
+console.log("this is quicksort hahahahah");
