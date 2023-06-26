@@ -26,3 +26,4 @@ let graph1 = new graph([obj1,obj2,obj3,obj4,obj5])
 console.log(obj1);
 console.log(graph1);
 // console.log(graph1.addtograph(8))
+console.log("this is graph");
